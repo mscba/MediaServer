@@ -1,0 +1,66 @@
+/* TG-Farben 
+gelb: #FFEC0D
+hellgrün: #A5C614
+grün: #40A536
+blau: #279AD6
+hellblau: #41BEEE
+grau: #F5F5F5
+*/
+
+body {
+	width: 550px;
+	background-color: #F5F5F5;
+	font-family: "Arial";
+}
+
+form {
+	padding: 5px;
+}
+
+p {
+	padding: 10px;
+}
+
+label {
+	padding: 10px;
+	font-weight: bold;
+}
+
+input {
+	background-color: #F5F5F5;
+	border-color: #40A536;
+	border-width: 1px;
+	color: #279AD6;
+	padding-left: 5px;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+button {
+	border-color: #40A536;
+	border-width: 1px;
+	text-align: center;
+}
+
+a {
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	color: #40A536;
+}
+
+a:hover {
+	color: #000000;
+}
+
+#box {
+	border-radius: 10px;
+	border: 1px solid;
+	border-color: #40A536;
+	background: #A5C614;
+}
+
+#header {
+	font-size: 140%;
+	font-weight: bold;
+}
